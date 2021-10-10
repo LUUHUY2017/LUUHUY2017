@@ -38,8 +38,8 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p align="center">
         <a href="https://github.com/LUUHUY2017"><img
-                src="https://camo.githubusercontent.com/caf5118deeb4a56c73c6eecb9f98fd1ea223cc603fa4f2c5510f9f151e7da2ff/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d426c6f636b436861696e253230446576656c6f7065723b576562253230616e642532304d6f62696c652532304d61737465723b3725324225323079656172732532306f66253230636f64696e67253230657870657269656e63653b416c776179732532306c6561726e696e672532306e65772532307465636826666f6e743d506163696669636f2663656e7465723d747275652677696474683d363530266865696768743d31323026636f6c6f723d353861366666267643656e7465723d747275652673697a653d3435253232"
-                data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&amp;font=Pacifico&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22"
+                src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=26&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg"
+                data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=26&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg"
                 style="max-width: 100%;"></a>
     </p>
     <br>
@@ -393,6 +393,15 @@
  
 </article>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats)
+<div align="center">
+    <a href="https://github.com/simoneguimaraes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" style="max-width: 100%;">     
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" style="max-width: 100%;">
+  </a></div>
+
+<!-- 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats)
+
+    ![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green) -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green)
