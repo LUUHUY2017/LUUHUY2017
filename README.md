@@ -1,3 +1,4 @@
+
 <div align="center">
     <a href="https://github.com/LUUHUY2017"><img
             src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true"
@@ -389,8 +390,10 @@
                 </path>
             </svg></a>Github Status</h2>
     <br>
-
-
-
-
+ 
 </article>
+
+ <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017)-->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017)](https://github.com/LUUHUY2017/github-readme-stats)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017)
