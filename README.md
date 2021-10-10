@@ -38,10 +38,10 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p align="center">
         <a href="https://github.com/LUUHUY2017"><img
-                src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=30&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience "
-                data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=30&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience) "
+                src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=30&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg)"
+                data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=30&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg)"
                 style="max-width: 100%;"></a>
-    </p> 
+    </p>
     <h2 align="left" id="user-content-macropower-tech"><a id="user-content-favorite-tech" class="anchor"
             aria-hidden="true" href="#favorite-tech"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
                 width="16" height="16" aria-hidden="true">
