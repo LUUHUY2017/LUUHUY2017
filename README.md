@@ -17,6 +17,7 @@
         </h3>
     </div>
     <div align="center">A software engineer focused on back-end development.</div>
+   <div align="center"> Tôi là một người làm việc chăm chỉ, tin vào sự chính trực và cũng là một người học hỏi nhanh. Ngoài ra, tôi là một người thân thiện và hướng ngoại, có thể thích nghi với bất kỳ văn hóa làm việc nào.</div>
     <br>
     <div align="center">
         <a target="_blank" href="https://www.youtube.com/channel/UCs9_OOYXHJiq6hdtVEPH-BQ?sub_confirmation=1" rel="nofollow"><img
