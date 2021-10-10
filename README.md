@@ -398,7 +398,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" style="max-width: 100%;">
   </a></div>
 
-<!-- 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats) -->
-
-    ![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats) 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green) 
