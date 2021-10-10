@@ -41,8 +41,7 @@
                 src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=26&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg"
                 data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Courgette&color=%2336BCF7&size=26&lines=Allways+learning+new+things;Full-stack+Web+and+App+Developer;5%2B+years+of+coding+experience)](https://git.io/typing-svg"
                 style="max-width: 100%;"></a>
-    </p>
-    <br>
+    </p> 
     <h2 align="left" id="user-content-macropower-tech"><a id="user-content-favorite-tech" class="anchor"
             aria-hidden="true" href="#favorite-tech"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
                 width="16" height="16" aria-hidden="true">
@@ -393,14 +392,13 @@
  
 </article>
 
-[<div align="center">
+<div align="center">
     <a href="https://github.com/simoneguimaraes">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" style="max-width: 100%;">     
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" style="max-width: 100%;">
-  </a></div>](url)
+  </a></div>
 
 <!-- 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats)  -->
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats) -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green)
- 
+    ![](https://visitor-badge.laobi.icu/badge?page_id=LUUHUY2017) [![Github](https://img.shields.io/github/followers/LUUHUY2017?label=Follow&style=social)](https://github.com/LUUHUY2017&color=brightgreen) ![](https://komarev.com/ghpvc/?username=LUUHUY2017&color=green) 
