@@ -392,9 +392,9 @@
  
 </article>
  <div align="center">
-    <a href="https://github.com/simoneguimaraes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" style="max-width: 100%;">     
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" style="max-width: 100%;">
+    <a href="luuduchuy.tk">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" style="width: 100%;">     
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7" style="width: 100%;">
   </a></div> 
 
  <!-- ![HuyLuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUUHUY2017&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUUHUY2017&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/LUUHUY2017/github-readme-stats) -->
